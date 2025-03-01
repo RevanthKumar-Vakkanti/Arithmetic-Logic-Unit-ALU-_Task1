@@ -74,3 +74,6 @@
   * Essential in performing computations in embedded systems, VLSI design, and general computing.
 
 ## OUTPUT WAVEFORM:
+
+![Image](https://github.com/user-attachments/assets/60f7d37d-0be3-4296-ae9a-9660ffc6ce5f)
+
