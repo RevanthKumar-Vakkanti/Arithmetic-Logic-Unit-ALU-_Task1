@@ -77,3 +77,7 @@
 
 ![Image](https://github.com/user-attachments/assets/60f7d37d-0be3-4296-ae9a-9660ffc6ce5f)
 
+## SCHEMATIC DIAGRAM:
+
+![Image](https://github.com/user-attachments/assets/54b60020-7ade-4bd1-9237-801a5e4e591a)
+
